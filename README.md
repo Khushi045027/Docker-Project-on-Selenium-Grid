@@ -1,5 +1,9 @@
 # Selenium Standalone Chrome Docker Container
 
+
+Uploading Docker Seelnium Grid.mp4…
+
+
 This project demonstrates the process of setting up a Selenium Standalone Chrome container using Docker. It allows you to run Selenium tests with the Chrome browser in a Docker container for an efficient and isolated testing environment.
 
 ## Prerequisites
