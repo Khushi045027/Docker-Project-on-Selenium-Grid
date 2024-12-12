@@ -1,7 +1,10 @@
 # Selenium Standalone Chrome Docker Container
 
 
-Uploading Docker Seelnium Grid.mp4…
+https://github.com/user-attachments/assets/d6f99835-7982-4ef0-8a50-b023b1acd4ad
+
+Uploading Docker Seelnium Grid.mp4…[evolutionApi_chatwoot_docker-main.zip](https://github.com/user-attachments/files/18106545/evolutionApi_chatwoot_docker-main.zip)
+
 
 
 This project demonstrates the process of setting up a Selenium Standalone Chrome container using Docker. It allows you to run Selenium tests with the Chrome browser in a Docker container for an efficient and isolated testing environment.
